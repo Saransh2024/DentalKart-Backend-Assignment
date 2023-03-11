@@ -8,7 +8,7 @@ Create a dotenv file-
 
 Enter JWT_SECRET KEY in it
 
-Start the SERVER-
+To Start the SERVER-
 
 Run - node app.js
 
