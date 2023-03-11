@@ -1,12 +1,12 @@
 # DentalKart-Backend-Assignment
 
-First of all install all the dependencies:
+First of all install all the dependencies
 Run - npm install
 
-Create a dotenv file
+Create a dotenv file-
 Enter JWT_SECRET KEY in it
 
-Start the SERVER:
+Start the SERVER-
 Run - node app.js
 
 Server will run at PORT 3000
