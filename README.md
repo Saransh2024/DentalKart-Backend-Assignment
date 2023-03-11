@@ -24,14 +24,13 @@ APIS:
 
 5) Export CSV File API - http://localhost:8000/export-csv
 
-
-
-![Screenshot (44)](https://user-images.githubusercontent.com/99881894/224509665-db3e8d63-2b64-4744-8da7-1c94b8909d9b.png)
-![Screenshot (45)](https://user-images.githubusercontent.com/99881894/224509696-5dcba17d-2fa5-49ac-b101-9b12be09c4c9.png)
-![Screenshot (56)](https://user-images.githubusercontent.com/99881894/224509714-088afd20-9e5a-4941-95b2-6fe8e927531d.png)
-![Screenshot (57)](https://user-images.githubusercontent.com/99881894/224509775-42c63234-0b5c-40e5-bdc2-5e852e932c3e.png)
-![Screenshot (58)](https://user-images.githubusercontent.com/99881894/224509778-25b296c0-013e-4aad-a818-42a12941719f.png)
-![Screenshot (59)](https://user-images.githubusercontent.com/99881894/224509779-a469b7c3-9fc1-4111-96aa-58b8b05685a9.png)
-![Screenshot (43)](https://user-images.githubusercontent.com/99881894/224509774-f4df18b9-b095-49b7-862e-55e5853e8b20.png)
+SCREENSHOTS-
+![Screenshot (44)](https://user-images.githubusercontent.com/99881894/224509989-c58378d3-4b42-470b-b45a-d8af57b58faa.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/99881894/224509991-e4d0901a-da5c-4a8a-bd5f-c2a076a191b8.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/99881894/224509992-93894493-681a-46e4-afaf-e95b4dc7e9d7.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/99881894/224509996-159fc968-a6ea-4917-b917-d1aaa3156df5.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/99881894/224509998-946f66cc-d683-49ef-bb69-c3482a5c1c2f.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/99881894/224510003-886b7457-e3c8-4b8e-b55c-18097f2c9c4d.png)
+![Screenshot (43)](https://user-images.githubusercontent.com/99881894/224510026-5ce4f0f5-c36a-435b-b479-125bd2ef8729.png)
 
 
