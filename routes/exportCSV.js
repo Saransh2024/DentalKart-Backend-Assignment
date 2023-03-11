@@ -8,7 +8,7 @@ const auth = require("../middleware/auth");
 
 
 // export CSV
-router.get('/export',auth, (req, res, next)=>{
+router.get('/export-csv',auth, (req, res, next)=>{
 
     db_student.query('SELECT * FROM students', (error, data)=>{
 
